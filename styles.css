@@ -1,0 +1,17 @@
+body {
+
+}
+
+.button {
+  display: flex;
+  justify-content: flex-end;
+
+}
+
+.button2 {
+flex-direction: row;
+}
+
+.button3 {
+
+}
